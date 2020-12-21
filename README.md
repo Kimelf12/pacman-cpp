@@ -1,2 +1,4 @@
-# pacman-cpp
-Pacman desenvolvido em C++, utilizando a biblioteca Allegro.
+# Universidade Federal de Viçosa - (UFV)
+## Programação 1 - Trabalho 3 
+--
+Pacman desenvolvido com a biblioteca Allegro.
